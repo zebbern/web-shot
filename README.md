@@ -37,7 +37,7 @@
 ## Setup
 **1. Clone Repository**
 ```
-git clone https://github.com/zebbern/web-shot
+git clone https://github.com/zebbern/web-shot.git
 cd web-shots
 ```
 **2. Install Dependesies**
