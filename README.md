@@ -5,11 +5,11 @@
 
 📸 | **Takes a screenshot of every domain/link provided and saves it in /screenshots Options to choose full page picture with highly customizable options**
 <details> 
-<summary>Full Page Screenshot Preview</summary>
+<summary>𝐅𝐮𝐥𝐥 𝐏𝐚𝐠𝐞 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭 𝐏𝐫𝐞𝐯𝐢𝐞𝐰</summary>
 <img src="https://github.com/user-attachments/assets/623b4eaf-7a9b-450e-ac53-babf6a2b8963">
 </details> 
 <details> 
-<summary>Half Page Screenshot Preview</summary>
+<summary>𝐇𝐚𝐥𝐟 𝐏𝐚𝐠𝐞 𝐒𝐜𝐫𝐞𝐞𝐧𝐬𝐡𝐨𝐭 𝐏𝐫𝐞𝐯𝐢𝐞𝐰</summary>
 <img src="https://github.com/user-attachments/assets/dcf0cb90-c420-4c0d-866f-b77dd7e2dbc2">
 </details> 
 
