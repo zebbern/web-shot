@@ -4,7 +4,14 @@
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
 
 📸 | **Takes a screenshot of every domain/link provided and saves it in /screenshots Options to choose full page picture with highly customizable options**
-
+<details> 
+<summary>Full Page Screenshot Preview</summary>
+<img src="https://github.com/user-attachments/assets/623b4eaf-7a9b-450e-ac53-babf6a2b8963">
+</details> 
+<details> 
+<summary>Half Page Screenshot Preview</summary>
+<img src="https://github.com/user-attachments/assets/dcf0cb90-c420-4c0d-866f-b77dd7e2dbc2">
+</details> 
 
 ## Table of Contents
 - [Features](#features)
@@ -12,8 +19,6 @@
 - [Usage](#usage)
 - [Terminal Output For Each Domain](#terminal-output-for-each-processed-website)
 - [Config File](#config-file)
-- [Half Page Output](#half-page-output)
-- [Full Page Output](#full-page-output)
 - [Python 3.12+ Pip Fix](#python-312-pip-fix)
 
 ## Features
@@ -111,14 +116,6 @@ terminal:
 
 ```
 
-## Half Page Output
-![https___github com_zebbern](https://github.com/user-attachments/assets/dcf0cb90-c420-4c0d-866f-b77dd7e2dbc2)
-
----
-## Full Page Output
-![https___github com_zebbern](https://github.com/user-attachments/assets/623b4eaf-7a9b-450e-ac53-babf6a2b8963)
-
----
 
 ## Python 3.12+ Pip Fix:
 ### Create and Activate a Virtual Environment
