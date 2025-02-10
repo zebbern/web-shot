@@ -1,0 +1,45 @@
+general:
+  input_file: "domains.txt"         # File with one domain per line.
+  output_dir: "screenshots"         # Directory to save screenshots.
+  format: "png"                     # Image format: "png" or "jpeg".
+  clear_terminal: true              # Clear the terminal when starting.
+  verbose: false                    # Verbose output (optional).
+  log_to_file: false                # If true, log output to a file.
+  log_file: ""                      # Log file path (e.g., "screenshot.log").
+  naming_scheme: "custom"         # Options: "full_url", "domain", "custom"
+  custom_name_pattern: "{url}"  # Only used if naming_scheme is "custom"
+
+screenshot:
+  width: 1920                     # Viewport width in pixels.
+  height: 1080                    # Viewport height in pixels.
+  scale_factor: 1                 # Device scale factor.
+  dark_mode: true                # Use dark mode for rendering.
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36"
+  full_page: true                 # Take a full-page screenshot.
+  delay: 0                        # Delay (in seconds) after page load before screenshot.
+  quality: 80                     # JPEG quality (only used if format is "jpeg").
+  background_color: ""            # If set (e.g., "#ffffff"), sets the page background color.
+
+concurrency:
+  use_concurrent: true            # Process domains concurrently.
+  max_workers: 4                  # Maximum number of concurrent browser instances.
+
+timeouts:
+  navigation_timeout: 15000       # Navigation timeout in milliseconds.
+  wait_until: "load"              # When to consider navigation done ("load", "domcontentloaded", "networkidle").
+
+network:
+  block_images: false             # Block image resources.
+  block_stylesheets: false        # Block CSS resources.
+  block_javascript: false         # Block JavaScript resources.
+
+advanced:
+  custom_headers: {}              # Custom HTTP headers (as a mapping).
+  proxy: ""                       # Proxy server (e.g., "http://127.0.0.1:8080").
+
+terminal:
+  color_success: "GREEN"          # Color for 2xx status codes.
+  color_warning: "YELLOW"         # Color for 3xx status codes.
+  color_error: "RED"              # Color for 4xx/5xx status codes.
+  color_default: "WHITE"          # Default color.
+  output_template: "[{current}/{total}] [{status}] {url} {filename}"  # Template for terminal output.
