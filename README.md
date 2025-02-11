@@ -60,9 +60,9 @@ playwright install
 
 ## Terminal output for each processed website:
 ```
-[1/10] [ 200 ] https://example.com https___github_com_20250310153045.png
-[2/10] [ 200 ] https://example.com https___example2_com_20250310153045.png
-[3/10] [ 200 ] https://example.com https___test3_com_20250310153045.png
+[1/3] [ 200 ] https://example.com https___github_com_20250310153045.png
+[2/3] [ 200 ] https://example.com https___example2_com_20250310153045.png
+[3/3] [ 200 ] https://example.com https___test3_com_20250310153045.png
 ```
 
 ## Config File
