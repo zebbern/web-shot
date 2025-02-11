@@ -62,7 +62,7 @@ playwright install
 ```
 [1/3] [ 200 ] https://example.com https___github_com_20250310153045.png
 [2/3] [ 200 ] https://example.com https___example2_com_20250310153045.png
-[3/3] [ 200 ] https://example.com https___test3_com_20250310153045.png
+[3/3] [ 200 ] http://example.com http___test3_com_20250310153045.png
 ```
 
 ## Config File
