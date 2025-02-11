@@ -118,7 +118,7 @@ terminal:
 
 
 ## Python 3.12+ Pip Fix:
-### Create and Activate a Virtual Environment
+### Create and Activate a Virtual Environment | Fix if `pip install` is not working or `installation` is not found.
 #### For Linux/macOS:
 ```
 python3 -m venv venv && source venv/bin/activate
