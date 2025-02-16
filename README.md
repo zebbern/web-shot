@@ -1,4 +1,7 @@
-# Web-shot
+<div align="center">
+
+<img src="https://github.com/user-attachments/assets/41601ebc-0747-4bf2-881a-2bea939e4d23" style="width:25%;">
+
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
 ![License](https://img.shields.io/badge/License-MIT-brightgreen)
@@ -13,13 +16,21 @@
 <img src="https://github.com/user-attachments/assets/dcf0cb90-c420-4c0d-866f-b77dd7e2dbc2">
 </details> 
 
-## Table of Contents
-- [Features](#features)
-- [Setup](#setup)
-- [Usage](#usage)
-- [Terminal Output For Each Domain](#terminal-output-for-each-processed-website)
-- [Config File](#config-file)
-- [Python 3.12+ Pip Fix](#python-312-pip-fix)
+---
+
+[Features](#features)
+
+[Setup](#setup)
+
+[Usage](#usage)
+
+[Terminal Output For Each Domain](#terminal-output-for-each-processed-website)
+
+[Config File](#config-file)
+
+[Python 3.12+ Pip Fix](#python-312-pip-fix)
+
+</div>
 
 ## Features
 - **Fast & Accurate**: Captures full-page screenshots using Playwright.
